@@ -15,7 +15,12 @@
 body{
 	background: #9ecae0;
 }
-
+/* properties of Header*/
+h1{
+	font-size: 28px;
+	padding-top: 10px;
+	margin-left: 240px;
+}
 /* properties of wrapper div */
 .wrapper{
 	width: 100%;
